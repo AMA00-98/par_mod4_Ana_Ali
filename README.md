@@ -37,5 +37,7 @@ El objetivo principal es analizar las emociones de los personajes principales a 
     ```
 2. **Visualización**: Abre el archivo `.pbix` con Power BI Desktop para interactuar con los datos.
 
+<img width="1311" height="732" alt="HIMYM" src="https://github.com/user-attachments/assets/a6e745fb-b379-4b66-8028-1f26290e067b" />
+
 ---
 *Este proyecto fue desarrollado por Ana y Aliris como parte del Módulo 4 de ADALAB.*
